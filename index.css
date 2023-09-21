@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(to bottom, #5c5c5c, #a3a3a3, #5c5c5c);
+    background-image: linear-gradient(#5c5c5c, #a3a3a3, #5c5c5c);
 }
 .banner {
   /* background-color:antiquewhite; */
